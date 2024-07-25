@@ -1,5 +1,5 @@
-- 👋 Hi, I’m MOHAMED SHAKIL
-- 👀 I’m interested in WEB DEVELOPMENT
+- 👋 Hi, I’m MOHAMED SHAKIL J
+- 👀 I’m interested in WEB DEVELOPMENT & DESIGNING
 - 🌱 I’m currently learning MERN FULL STACK DEVELOPMENT
 - 💞️ I’m looking to work as an FRONT-END DEVELOPER
 - 📫 you can rech me here [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedshakil883@gmail.com)
